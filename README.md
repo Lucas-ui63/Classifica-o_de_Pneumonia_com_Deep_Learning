@@ -22,7 +22,9 @@ O pipeline foi construído seguindo as melhores práticas de desenvolvimento em 
 *   **Desempenho:** Na etapa de validação, utilizando o bloco de avaliação e congelamento de gradientes (`torch.no_grad()`), o modelo registrou uma **precisão/acurácia final de 68,9%**.
 
 ---
-
+### 🎬 Demonstração do Treinamento em Tempo Real
+![Demosntração do Treinamento](https://github.com/user-attachments/assets/e5be8fb0-1ade-491c-bc5b-ebfa4546eb80)
+---
 ## 🚀 Como Executar o Projeto
 
 ### 1. Pré-requisitos
