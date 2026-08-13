@@ -11,7 +11,7 @@ O núcleo do projeto consiste no desenvolvimento e treinamento de uma **Rede Neu
 O pipeline foi construído seguindo as melhores práticas de desenvolvimento em Machine Learning:
 
 *   **Linguagem principal:** Python
-*   **Framework de Deep Learning:** PyTorch (`torch`, `torch.nn`, `torch.optim`)
+*   **Framework de Deep Learning:** PyTorch (`torch`, `torch.nn`, `torch.optim`, `sklearn.metrics`)
 *   **Manipulação de Imagens:** Torchvision (aplicação de transformações, normalizações e redimensionamento de imagens)
 *   **Gestão de Dados:** `DataLoader` estruturado para otimizar o consumo de memória durante as etapas de treino e validação.
 
