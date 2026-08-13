@@ -1,3 +1,4 @@
 kagglehub>=1.0.2
 torch>=2.11.0
 torchvision>=0.26.0
+scikit-learn >= 1.6.1
